@@ -14,11 +14,11 @@ Download the [fathym.io.photon-0.0.1-doorStatus library folder](https://github.c
 
 1. **Wire up your hardware**
   - Add the [Magnetic Door Switch](https://www.sparkfun.com/products/10167?gclid=CLqS-YDTkcwCFQiqaQodCMsK2Q) to your breadboard
-  ![Door Switch](http://community.fathym.com/?partId=a828a1b4-820a-4c33-b30d-9e1afe84c93f)
+  ![Door Switch](http://community.fathym.com/Files/Storage/a828a1b4-820a-4c33-b30d-9e1afe84c93f)
       - Connect a wire from the door switch to AO on the Photon
       - Connect the other wire from the door switch to A5 on the Photon 
   - Affix your sensor to your door (and the breadboard nearby).
-  ![Door Switch](http://community.fathym.com/?partId=69b900a7-e071-4faa-a68e-668891f60bd4)
+  ![Door Switch](http://community.fathym.com/Files/Storage/69b900a7-e071-4faa-a68e-668891f60bd4)
     - Try to minimize the gap between the magnets 
 2. **Download the [fathym.io.photon-0.0.1-doorStatus library folder](https://github.com/fathym/fathym.io_Photon_DoorSensor/blob/master/fathym.io.photon-0.0.1-doorStatus.zip) zip folder from this repo and unzip**
 2. **Open the Particle Dev Desktop app and add the fathym.io.photon-0.0.1-doorStatus folder**
@@ -85,7 +85,7 @@ Download the [fathym.io.photon-0.0.1-doorStatus library folder](https://github.c
 
 1. From inside your Fathym Home Space, find and enter the "Community Space" (tree icon) 
 2. Inside the Community Space,  click the plus "+" button to get to the catalog of addable parts
-3. Change the selected tab in the upper right from "Create New" to "Add Exisiting
+3. Change the selected tab in the upper right from "Create New" to "Add Existing
 4. Search the "Existing Catalog" for your Particle Photon Device and Add!
 
 
