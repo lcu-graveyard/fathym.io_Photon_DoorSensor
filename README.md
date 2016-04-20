@@ -75,7 +75,7 @@ Download the [fathym.io.photon-0.0.1-doorStatus library folder](https://github.c
 ![Permissions](http://community.fathym.com/Files/Storage/06927353-54ad-4ecc-b29a-99cbc1f837da "Permissions")
 1. From inside your Particle Photon part, click the edit button (pencil icon)
 2. Open the "Permissions" tab
-3. Here you can select which useres have read, write, delete, contributor, moderator, or full control access
+3. Here you can select which users have read, write, delete, contributor, moderator, or full control access
   - Full control allows the user to enter the parts configure settings in addition to everything else
   - You can only give permission to existing Fathym users
   - Type "Everyone" to give the entire Fathym userbase a certain permission
