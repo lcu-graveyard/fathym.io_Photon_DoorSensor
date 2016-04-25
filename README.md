@@ -13,7 +13,7 @@ Download the [fathym.io.photon-0.0.1-doorStatus library folder](https://github.c
 ## Getting up and running
 
 1. **Wire up your hardware**
-  - Add the [Magnetic Door Switch](https://www.sparkfun.com/products/10167?gclid=CLqS-YDTkcwCFQiqaQodCMsK2Q) to your breadboard
+  - Add the [Magnetic Door Switch](https://www.sparkfun.com/products/13247) to your breadboard
   ![Door Switch](http://community.fathym.com/Files/Storage/a828a1b4-820a-4c33-b30d-9e1afe84c93f)
       - Connect a wire from the door switch to AO on the Photon
       - Connect the other wire from the door switch to A5 on the Photon 
