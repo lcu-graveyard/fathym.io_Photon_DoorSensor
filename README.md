@@ -25,6 +25,7 @@ Download the [fathym.io.photon-0.0.1-doorStatus library folder](https://github.c
 ![Particle Dev](https://40.media.tumblr.com/85a6b84ac6a20005769c38cf79ea9c55/tumblr_o58dv5IR7S1qcz8h1o1_1280.jpg "Particle Dev")
   - Download the [Particle Dev Environment](https://www.particle.io/dev) if you haven't already
   - Inside Particle Dev: File -> Add Project Folder -> Find the fathym.io folder
+  - Take ["ownership"](https://docs.particle.io/support/troubleshooting/device-management/photon/) of your Photon using the [Particle Photon app](https://itunes.apple.com/us/app/particle-build-photon-electron/id991459054?mt=8)
   - For more about working with your Photon, start with the tutorials in the [Particle Guide](https://docs.particle.io/guide/getting-started/intro/photon/)
 5. **Select your device, save, compile, flash**                                       
     ![Particle Icons](http://community.fathym.com/Files/Storage/18dc2dab-fd6e-4754-89ba-28e6611c1dae "Particle Icons")
